@@ -7,8 +7,8 @@
     "build": "webpack --config ./webpack.prod.js --mode production",
     "precommit": "pretty-quick --staged"
   },
-  "author": "Madusha Prasanjith",
-  "license": "MIT",
+  "author": "Nishanthan",
+  "license": "SD",
   "devDependencies": {
     "babel-core": "^6.26.0",
     "babel-loader": "^7.1.4",
